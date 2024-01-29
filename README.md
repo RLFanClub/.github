@@ -1,1 +1,1 @@
-# business information
+# project information
