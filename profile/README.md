@@ -2,6 +2,6 @@
 
 Made by fans, for the fans!
 
-## DISCLAIMER!!
+### DISCLAIMER!!
 
 RLFan.Club is in no way affiliated with Psyonix LLC or Epic Games, Inc.
