@@ -1,3 +1,5 @@
+# Rocket League Fan Club
+
 ## Made by fans, for the fans!
 
 ## DISCLAIMER!!
